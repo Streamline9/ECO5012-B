@@ -1,4 +1,8 @@
 streamlit
 pandas
 numpy
-plotly
+plotly 
+statsmodels
+pandas_datareader
+seaborn
+matplotlib
